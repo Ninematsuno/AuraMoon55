@@ -38,3 +38,6 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AuraMoon55&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=FFDF00&bg_color=808080&hide=bg-color&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=AuraMoon55&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
+
+[![Github](https://img.shields.io/github/followers/AuraMoon55?color=181717&label=Followers&logo=Followers&logoColor=181717&style=for-the-badge)](https://github.com/AuraMoon55)
+
