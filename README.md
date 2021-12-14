@@ -40,4 +40,5 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=AuraMoon55&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
 
 [![Github](https://img.shields.io/github/followers/AuraMoon55?color=181717&label=Followers&logo=Followers&logoColor=181717&style=for-the-badge)](https://github.com/AuraMoon55)
+[![Github](https://img.shields.io/github/followers/AuraMoon55?color=181717&label=Followers&logo=Followers&logoColor=181717&style=for-the-badge)](https://github.com/AuraMoon55)
 
