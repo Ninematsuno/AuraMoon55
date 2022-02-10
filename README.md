@@ -43,3 +43,22 @@
 ![views](https://komarev.com/ghpvc/?username=AuraMoon55&style=plastic&color=181717)
 [![Github](https://img.shields.io/github/followers/AuraMoon55?color=181717&label=Followers&logo=Followers&logoColor=181717&style=for-the-badge)](https://github.com/AuraMoon55)
 
+#####
+
+## Contribution Graph 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AuraMoon55&theme=highcontrast" alt="AuraMoon55" /></p>
+
+### Contribution Graph:
+
+<p align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=AuraMoon55&custom_title=Contribution+Graph&theme=xcode"
+    />
+</p>
+
+
+> MOST USED LANGUAGES
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AuraMoon55&show_icons=true&layout=compact&theme=highcontrast" alt="AuraMoon55" /></p>
